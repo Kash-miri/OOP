@@ -1,0 +1,1 @@
+Toyota,corolla,2022,LEA123,red,1500
